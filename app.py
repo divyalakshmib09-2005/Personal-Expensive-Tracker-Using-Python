@@ -6,7 +6,7 @@ import csv
 conn = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="Divya@2005",
+    password="*****",
     database="expense_tracker"
 )
 
