@@ -1,0 +1,108 @@
+Expense ID,Date,Category,Description,Amount,Payment Method
+1,2026-05-01,Food,Breakfast,80.00,UPI
+3,2026-05-03,Shopping,T-Shirt,450.00,Card
+4,2026-05-04,Bills,Mobile Recharge,299.00,UPI
+5,2026-05-05,Entertainment,Movie,300.00,cash
+6,2026-05-06,Food,Lunch,180.00,UPI
+7,2026-05-07,Travel,Auto,120.00,Cash
+8,2026-05-08,Shopping,Bag,650.00,Card
+9,2026-05-09,Food,Dinner,250.00,UPI
+10,2026-05-10,Bills,Internet Bill,799.00,UPI
+11,2026-05-11,Travel,Train Ticket,150.00,UPI
+12,2026-05-12,Food,Snacks,100.00,Cash
+13,2026-05-13,Entertainment,OTT Subscription,199.00,UPI
+14,2026-05-14,Shopping,Shoes,1200.00,Card
+15,2026-05-15,Bills,Electricity Bill,950.00,UPI
+16,2026-05-16,Food,Coffee,100.00,Cash
+17,2026-05-17,Travel,Cab,280.00,UPI
+18,2026-05-18,Shopping,Watch,900.00,Card
+19,2026-05-19,Food,Breakfast,90.00,UPI
+20,2026-05-20,Entertainment,Game,350.00,UPI
+21,2026-05-21,Bills,Water Bill,300.00,UPI
+22,2026-05-22,Travel,Bus Ticket,60.00,Cash
+23,2026-05-23,Food,Lunch,200.00,UPI
+24,2026-05-24,Shopping,Dress,1500.00,Card
+25,2026-05-25,Entertainment,Concert,700.00,Card
+26,2026-06-01,Food,Breakfast,100.00,UPI
+27,2026-06-02,Travel,Auto,90.00,Cash
+28,2026-06-03,Shopping,Jeans,850.00,Card
+29,2026-06-04,Bills,Mobile Recharge,399.00,UPI
+30,2026-06-05,Food,Lunch,220.00,UPI
+31,2026-06-06,Entertainment,Movie,350.00,Card
+32,2026-06-07,Travel,Bus,45.00,Cash
+33,2026-06-08,Food,Dinner,280.00,UPI
+34,2026-06-09,Shopping,Sunglasses,550.00,Card
+35,2026-06-10,Bills,Internet Bill,699.00,UPI
+36,2026-06-11,Travel,Cab,320.00,UPI
+37,2026-06-12,Food,Snacks,130.00,Cash
+38,2026-06-13,Entertainment,Music Subscription,149.00,UPI
+39,2026-06-14,Shopping,Handbag,1100.00,Card
+40,2026-06-15,Bills,Electricity Bill,870.00,UPI
+41,2026-06-16,Food,Coffee,120.00,Cash
+42,2026-06-17,Travel,Train,200.00,UPI
+43,2026-06-18,Shopping,Shirt,600.00,Card
+44,2026-06-19,Food,Breakfast,75.00,UPI
+45,2026-06-20,Entertainment,Bowling,450.00,Card
+46,2026-06-21,Bills,Water Bill,280.00,UPI
+47,2026-06-22,Travel,Auto,110.00,Cash
+48,2026-06-23,Food,Lunch,190.00,UPI
+49,2026-06-24,Shopping,Watch,1250.00,Card
+50,2026-06-25,Entertainment,Park Ticket,100.00,Cash
+51,2026-07-01,Food,Breakfast,90.00,UPI
+52,2026-07-02,Travel,Bus,50.00,Cash
+53,2026-07-03,Shopping,Kurti,750.00,Card
+54,2026-07-04,Bills,Mobile Recharge,299.00,UPI
+55,2026-07-05,Entertainment,Movie,280.00,Card
+56,2026-07-06,Food,Lunch,210.00,UPI
+57,2026-07-07,Travel,Auto,130.00,Cash
+58,2026-07-08,Shopping,Sandals,900.00,Card
+59,2026-07-09,Food,Dinner,300.00,UPI
+60,2026-07-10,Bills,Internet Bill,799.00,UPI
+61,2026-07-11,Travel,Cab,250.00,UPI
+62,2026-07-12,Food,Snacks,110.00,Cash
+63,2026-07-13,Entertainment,OTT,199.00,UPI
+64,2026-07-14,Shopping,Backpack,800.00,Card
+65,2026-07-15,Bills,Electricity Bill,1020.00,UPI
+66,2026-07-16,Food,Coffee,140.00,Cash
+67,2026-07-17,Travel,Train Ticket,180.00,UPI
+68,2026-07-18,Shopping,Top,500.00,Card
+69,2026-07-19,Food,Breakfast,85.00,UPI
+70,2026-07-20,Entertainment,Game,250.00,UPI
+71,2026-07-21,Bills,Water Bill,320.00,UPI
+72,2026-07-22,Travel,Bus,55.00,Cash
+73,2026-07-23,Food,Lunch,230.00,UPI
+74,2026-07-24,Shopping,Earphones,1400.00,Card
+75,2026-07-25,Entertainment,Restaurant,600.00,UPI
+76,2026-08-01,Food,Breakfast,100.00,UPI
+77,2026-08-02,Travel,Bus Ticket,45.00,Cash
+78,2026-08-03,Shopping,Dress,1200.00,Card
+79,2026-08-04,Bills,Mobile Recharge,349.00,UPI
+80,2026-08-05,Entertainment,Movie Ticket,300.00,Card
+81,2026-08-06,Food,Lunch,200.00,UPI
+82,2026-08-07,Travel,Auto,100.00,Cash
+83,2026-08-08,Shopping,Shoes,1000.00,Card
+84,2026-08-09,Food,Dinner,270.00,UPI
+85,2026-08-10,Bills,Internet Bill,749.00,UPI
+86,2026-08-11,Travel,Cab,290.00,UPI
+87,2026-08-12,Food,Snacks,120.00,Cash
+88,2026-08-13,Entertainment,OTT Subscription,199.00,UPI
+89,2026-08-14,Shopping,Bag,700.00,Card
+90,2026-08-15,Bills,Electricity Bill,980.00,UPI
+91,2026-08-16,Food,Coffee,110.00,Cash
+92,2026-08-17,Travel,Train Ticket,160.00,UPI
+93,2026-08-18,Shopping,Watch,950.00,Card
+94,2026-08-19,Food,Breakfast,80.00,UPI
+95,2026-08-20,Entertainment,Movie,350.00,Card
+96,2026-08-21,Bills,Water Bill,300.00,UPI
+97,2026-08-22,Travel,Auto,120.00,Cash
+98,2026-08-23,Food,Lunch,220.00,UPI
+99,2026-08-24,Shopping,T-Shirt,550.00,Card
+100,2026-08-25,Entertainment,Game,300.00,UPI
+101,2026-08-26,Food,Dinner,280.00,UPI
+102,2026-08-27,Travel,Bus,60.00,Cash
+103,2026-08-28,Shopping,Accessories,400.00,Card
+104,2026-08-29,Bills,Recharge,249.00,UPI
+105,2026-08-30,Entertainment,Park,150.00,Cash
+106,2026-08-27,: Food,breakfast,100.00,upi
+107,2026-08-27,food,dinner,150.00,upi
+108,2026-08-27,food,dinner,200.00,cash
